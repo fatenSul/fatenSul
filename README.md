@@ -1,6 +1,11 @@
 <h1 align="center">Hi There , Welcome To My Profile I'm Faten Sultan</h1>
 <h3 align="center">I'm A Full Stack Developer , Who Study Computer Engineering At Birzeit University</h3>
+<p></p>
+<p></p>
+
 <img align-item = center" alt="coding" width ="700"  src="https://64.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif"
+<p></p>
+<p></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatensul&label=Profile%20views&color=0e75b6&style=flat" alt="fatensul" /> </p>
 
