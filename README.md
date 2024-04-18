@@ -11,7 +11,7 @@ src="https://64.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvze
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faten-sultan-217410255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faten-sultan-217410255/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faten-sultan-217410255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faten-sultan-217410255/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/faten.sultan.10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/faten.sultan.10/" height="30" width="40" /></a>
 </p>
 
