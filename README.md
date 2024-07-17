@@ -3,7 +3,6 @@
   <img align-item = center" alt="coding" width ="700"  
 src="https://64.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatensul&label=Profile%20views&color=0e75b6&style=flat" alt="fatensul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatensul" alt="fatensul" /></a> </p>
 
